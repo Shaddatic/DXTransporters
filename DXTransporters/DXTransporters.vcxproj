@@ -156,9 +156,9 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\0 - Games Folder\steamapps\common\Sonic Adventure 2\programming\ModelInfo.cpp" />
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="DXTransporters.cpp" />
+    <ClCompile Include="ModelInfo.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

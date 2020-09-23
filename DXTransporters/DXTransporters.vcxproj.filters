@@ -32,7 +32,7 @@
     <ClCompile Include="DXTransporters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\0 - Games Folder\steamapps\common\Sonic Adventure 2\programming\ModelInfo.cpp">
+    <ClCompile Include="ModelInfo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
